@@ -1,0 +1,18 @@
+{
+  "name": "Subject",
+  "label": {
+    "name": "Name",
+    "teacher": "Teacher",
+    "classes": "Classes",
+    "action": "Action"
+  },
+  "question": {
+    "name": "Question",
+    "label": {
+      "answer": "Answer",
+      "correct": "Correct Answer",
+      "image": "Image",
+      "action": "Action"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "welcome": {
+    "text": "Selamat {{time}}!",
+    "time": {
+      "morning": "Pagi",
+      "afternoon": "Siang",
+      "evening": "Sore",
+      "night": "Malam"
+    }
+  },
+  "form_validation": {
+    "photo": {
+      "file_type": "Hanya file JPG, PNG, dan JPEG yang diperbolehkan",
+      "file_size": "Ukuran file maksimal 4MB"
+    },
+    "required": "{{name}} tidak boleh kosong",
+    "email": "Format email tidak valid",
+    "number": "Format nomor tidak valid",
+    "min": "{{name}} minimal {{min}} karakter",
+    "max": "{{name}} maksimal {{max}} karakter",
+    "min_value": "{{name}} minimal {{min}}",
+    "max_value": "{{name}} maksimal {{max}}",
+    "length": "{{name}} harus {{length}} karakter",
+    "length_min": "{{name}} minimal {{length}} karakter",
+    "length_max": "{{name}} maksimal {{length}} karakter",
+    "length_between": "{{name}} harus diantara {{min}} sampai {{max}} karakter",
+    "length_min_max": "{{name}} harus diantara {{min}} sampai {{max}} karakter"
+  },
+  "website_name": "POJOK 6",
+  "search": "Cari",
+  "limit": "Batas",
+  "create": "Buat",
+  "edit": "Ubah",
+  "delete": "Hapus",
+  "delete_confirm": "Apakah Anda yakin ingin menghapus data ini?",
+  "delete_success": "berhasil dihapus.",
+  "form": "Form",
+  "save": "Simpan",
+  "cancel": "Batal",
+  "add": "Tambah",
+  "back": "Kembali",
+  "home": "Beranda",
+  "import": "Import",
+  "select": "Pilih {{name}}",
+  "configuration": "Konfigurasi"
+}

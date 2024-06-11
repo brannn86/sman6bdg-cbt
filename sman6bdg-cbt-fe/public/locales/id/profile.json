@@ -1,0 +1,71 @@
+{
+  "title": "Profil",
+  "profile": {
+    "profile_information": "Informasi Profil",
+    "profile_description": "Memperbarui informasi profil akun Anda",
+    "form": {
+      "photo": {
+        "label": "Foto Profil",
+        "file_type": "Hanya file JPG, PNG, dan JPEG yang diperbolehkan",
+        "file_size": "Ukuran file maksimal 4MB"
+      },
+      "name": {
+        "label": "Nama",
+        "required": "Nama harus diisi"
+      },
+      "username": {
+        "label": "Username",
+        "required": "Username harus diisi",
+        "min_length": "Username minimal 6 karakter",
+        "pattern": "Username hanya boleh alfanumerik"
+      },
+      "email": {
+        "label": "Email",
+        "required": "Email harus diisi",
+        "pattern": "Email tidak valid"
+      },
+      "phone": {
+        "label": "Nomor Telepon",
+        "required": "Nomor telepon harus diisi",
+        "pattern": "Nomor telepon tidak valid",
+        "min_length": "Nomor telepon minimal 10 karakter",
+        "max_length": "Nomor telepon maksimal 13 karakter"
+      },
+      "province": {
+        "label": "Provinsi",
+        "placeholder": "Pilih Provinsi"
+      },
+      "regency": {
+        "label": "Kabupaten/Kota",
+        "placeholder": "Pilih Kabupaten/Kota"
+      },
+      "district": {
+        "label": "Kecamatan",
+        "placeholder": "Pilih Kecamatan"
+      },
+      "address": {
+        "label": "Alamat"
+      },
+      "postal_code": {
+        "label": "Kode Pos"
+      }
+    }
+  },
+  "password": {
+    "password_information": "Perbarui Password",
+    "password_description": "Memperbarui password akun Anda",
+    "form": {
+      "new_password": {
+        "label": "Password Baru",
+        "required": "Password baru harus diisi",
+        "min_length": "Password minimal 8 karakter"
+      },
+      "confirm_password": {
+        "label": "Konfirmasi Password",
+        "required": "Konfirmasi password harus diisi",
+        "min_length": "Konfirmasi password minimal 8 karakter",
+        "match": "Konfirmasi password tidak cocok"
+      }
+    }
+  }
+}

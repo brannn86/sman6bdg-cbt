@@ -1,0 +1,38 @@
+{
+  "name": "Ujian",
+  "label": {
+    "name": "Nama",
+    "start_at": "Mulai",
+    "end_at": "Selesai",
+    "status": "Status",
+    "duration": "Durasi",
+    "total_question": "Jumlah Soal",
+    "subject": "Mata Pelajaran",
+    "category_exam": "Kategori Ujian",
+    "action": "Aksi"
+  },
+  "category_status": {
+    "ongoing": "Berlangsung",
+    "finished": "Selesai",
+    "upcoming": "Akan Datang"
+  },
+  "student_exam": {
+    "name": "Peserta Ujian",
+    "label": {
+      "name_student": "Nama Siswa",
+      "score": "Nilai",
+      "status": "Status",
+      "blocked": "Diblokir",
+      "action": "Aksi"
+    }
+  },
+  "question": {
+    "name": "Soal",
+    "label": {
+      "no": "No",
+      "question": "Soal",
+      "answer": "Jawaban",
+      "action": "Aksi"
+    }
+  }
+}
